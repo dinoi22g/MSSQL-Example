@@ -166,7 +166,6 @@ Partial Class FormMain
         Me.TextBoxPassword.PasswordChar = Global.Microsoft.VisualBasic.ChrW(42)
         Me.TextBoxPassword.Size = New System.Drawing.Size(212, 29)
         Me.TextBoxPassword.TabIndex = 7
-        Me.TextBoxPassword.Text = "!Asd8877"
         '
         'Label3
         '
@@ -183,7 +182,6 @@ Partial Class FormMain
         Me.TextBoxUsername.Name = "TextBoxUsername"
         Me.TextBoxUsername.Size = New System.Drawing.Size(200, 29)
         Me.TextBoxUsername.TabIndex = 5
-        Me.TextBoxUsername.Text = "root"
         '
         'Label2
         '
@@ -200,7 +198,6 @@ Partial Class FormMain
         Me.TextBoxHost.Name = "TextBoxHost"
         Me.TextBoxHost.Size = New System.Drawing.Size(200, 29)
         Me.TextBoxHost.TabIndex = 3
-        Me.TextBoxHost.Text = "DESKTOP-ML99O76"
         '
         'Label1
         '
